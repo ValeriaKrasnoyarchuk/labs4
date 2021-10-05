@@ -1,0 +1,91 @@
+body {
+    background: url(images/back.jpg);
+    margin-bottom: 0;
+
+    background-attachment: fixed;
+    font-family: 'Helvetica',
+        'Arial',
+        sans-serif;
+}
+
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+header {
+    font-family: 'Bonheur Royale', cursive;
+    font-family: 'Carattere', cursive;
+    background: linear-gradient(45deg, #b30fdbfd, #f3d7fa74);
+    height: 135px;
+    border-radius: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.footer {
+    background: linear-gradient(45deg, #b30fdbfd, #f3d7fa74);
+    padding: 10px;
+    height: 135px;
+    border-radius: 25px;
+}
+
+.table,
+.list,
+.form {
+    background: linear-gradient(45deg, #b30fdbfd, #f3d7fa74);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 25px;
+
+}
+
+.list,
+.form {
+    font-size: 20px;
+}
+
+.navigation {
+    height: 100px;
+    background: linear-gradient(45deg, #b30fdbfd, #f3d7fa74);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.nav-list {
+    font-size: 25px;
+}
+
+.flexible-image {
+    max-width: 100%;
+}
+
+.number {
+    background-color: #b30fdbfd;
+    font-size: 20px;
+    border-radius: 25px;
+}
+
+.even-number {
+    background-color: #f3d7fafd;
+    font-size: 20px;
+    border-radius: 25px;
+}
+
+.odd-number {
+    background-color: #ed7bdafd;
+    font-size: 20px;
+    border-radius: 25px;
+}
+
+.footer-author {
+
+    font-size: 24px;
+}
